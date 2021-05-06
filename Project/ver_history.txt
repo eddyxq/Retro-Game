@@ -1,0 +1,19 @@
+;Patch History:
+;Date              Version              Notes
+;Feb 04, 2021      Ver. 1.0.0           implemented input detection
+;Feb 07, 2021      Ver. 1.0.1           added busy loops to delay inputs
+;Feb 08, 2021      Ver. 1.1.0           implemented horiozntal player movement
+;Feb 09, 2021      Ver. 1.2.0           implemented vertical player jump and falling
+;Feb 24, 2021      Ver. 1.3.0           implemented player platform collision detection
+;Mar 14, 2021      Ver. 2.0.0           implemented player state machine
+;Mar 16, 2021      Ver. 3.0.0           refactored code and reworked player movement system
+;Mar 17, 2021      Ver. 3.1.0           improved movement feel and reworked collision detection
+;Mar 21, 2021      Ver. 3.2.0           added flies and score counter
+;Mar 29, 2021      Ver. 3.2.1           bug fixes
+;Apr 5, 2021       Ver. 3.3.0           added reset
+;Apr 5, 2021       Ver. 3.3.1           added start and end screens
+;Apr 5, 2021       Ver. 3.3.2           improved platforms
+;Apr 6, 2021       Ver. 3.3.3           added sounds and animated sprites
+;Apr 6, 2021       Ver. 3.3.4           added lives
+;Apr 11, 2021      Ver. 3.3.5           improved platforms
+;Apr 11, 2021      Ver. 3.3.6           improved flies
